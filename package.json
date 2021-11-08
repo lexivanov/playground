@@ -1,0 +1,24 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Some package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexivanov/playground.git"
+  },
+  "keywords": [
+    "learning",
+    "git",
+    "try"
+  ],
+  "author": "Alex I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexivanov/playground/issues"
+  },
+  "homepage": "https://github.com/lexivanov/playground#readme"
+}
